@@ -22,3 +22,9 @@ library itself, gets extracted as a separate project.
 
 Modules like `dsa` (data structures and algorithms), `logger`, `msg`,
 `process`, `shell`, `utils`... will always remain a part of `tea`.
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x1AA359bE39E38c0D61866364765C2C9699e96D3e'
+quorum: 1
